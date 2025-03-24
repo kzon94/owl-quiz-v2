@@ -3,8 +3,7 @@
 **Un juego de adivinanzas numéricas con sabiduría de búho**  
 *"Donde cada número es un misterio y cada intento acerca a la verdad"*
 
-![Ejemplo de juego](https://via.placeholder.com/800x400?text=Captura+de+Owl+Quiz+v2)  
-*(Reemplazar con imagen real del juego)*
+![Imagen Owl Quiz](owlquiz.jpg)  
 
 ## 🎯 Descripción
 
