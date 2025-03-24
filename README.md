@@ -1,9 +1,8 @@
 # 🦉 Owl Quiz v2
 
-**Un juego de adivinanzas numéricas con sabiduría de búho**  
-*"Donde cada número es un misterio y cada intento acerca a la verdad"*
+![Imagen Owl Quiz](owlquiz.jpg)
 
-![Imagen Owl Quiz](owlquiz.jpg)  
+*"Donde cada número es un misterio y cada intento acerca a la verdad"*
 
 ## 🎯 Descripción
 
