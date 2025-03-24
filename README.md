@@ -44,7 +44,7 @@ pip install matplotlib
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tuusuario/owl-quiz-v2.git
+git clone https://github.com/kzon94/owl-quiz-v2
 ```
 
 2. Ejecuta el juego:
